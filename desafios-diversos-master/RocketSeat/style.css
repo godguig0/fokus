@@ -3,6 +3,12 @@ body {
   background-size: cover;
 }
 
+:root {
+  font-family: "Alice", serif;
+  line-height: 150%;
+  color: #573A37;
+}
+
 #page {
   box-sizing: border-box;
   padding: 24px;
@@ -12,3 +18,17 @@ body {
   margin: 48 px auto;
   max-width: 800px;
 }
+
+h1 {
+  line-height: 140%;
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h1, h2 {
+  color: #291B1A
+}
+

@@ -1,0 +1,8 @@
+{
+  "name": "Desktop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:godguig0/fokus.git",
+  "author": "F8711335 Rodrigo Benfica Leite <rbl.335@bb.com.br>",
+  "license": "MIT"
+}
